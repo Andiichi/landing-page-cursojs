@@ -162,7 +162,7 @@
     position: fixed;
     bottom: 2rem;
     right: 1rem;
-    background: url('assets/img/back-to-top.svg') no-repeat var(--white-color); 
+    background: url(assets/img/back-to-top.svg) no-repeat var(--white-color); 
     background-size: cover;
     width: 5rem;
     height: 5rem;
